@@ -2,17 +2,17 @@
     "sequence": [
         {
             "type": "text",
-            "content": "Somebody Once Told me",
+            "content": "January, February, March, April",
             "fx": 1
         },
         {
             "type": "text",
-            "content": "Never Gonna Give You Up",
+            "content": "May, June, July, August",
             "fx": 1
         },
         {
             "type": "text",
-            "content": "Nyanyanyanyanyanyanyanyanyan",
+            "content": "September, October, November, December",
             "fx": 1
         },
         {

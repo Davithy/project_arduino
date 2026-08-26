@@ -2,17 +2,17 @@
     "sequence": [
         {
             "type": "text",
-            "content": "Romeo, o Romeo",
+            "content": "O Romeo, Romeo",
             "fx": 1
         },
         {
             "type": "text",
-            "content": "Wherefore art thou, Romeo?",
+            "content": "Wherefore art thou Romeo?",
             "fx": 1
         },
         {
             "type": "text",
-            "content": "Check yes, Juliet, are you with me?",
+            "content": "Deny the father and refuse thy name",
             "fx": 1
         },
         {
