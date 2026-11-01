@@ -7,7 +7,7 @@
             "content": "Testing, 1, 2, 3!",
             "fx": 3,
             "transition": 3,
-            "timing": "fast" 
+            "timing": "slow" 
         },
         {
             "_comment": "EXAMPLE SEQUENCE GRID",
@@ -31,7 +31,7 @@
                 "10909090101010101010101010101010",
                 "10101810101010101010101010101010"
             ],
-            "scale": [32, 16],
+            "scale": [16, 16],
             "fx": 1,
             "transition": 1,
             "timing": "slow" 
