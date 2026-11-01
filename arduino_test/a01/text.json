@@ -3,8 +3,8 @@
         {
             "type": "text",
             "content": "Dear friends",
-            "fx": 1,
-            "transition": 1,
+            "fx": "1",
+            "transition": "1",
             "timing": "slow" 
         },
         {
