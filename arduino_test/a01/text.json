@@ -44,6 +44,7 @@
                 "00000122222222100000",
                 "00001222222222210000"
             ],
+            "scale": [20, 19],
             "fx": 1,
             "transition": 0,
             "timing": "slow" 
@@ -69,18 +70,9 @@
                 "0000000000000000"
             ],
             "fx": 0,
+            "scale": [16, 16],
             "transition": 0,
             "timing": "slow" 
-        }
-    ],
-    "template": [
-        {
-            "type": "text | grid | bitmap",
-            "content": "text | 1-9 | bitmap values",
-            "fx": "0-5",
-            "transition": "0-5",
-            "timing": "slow | medium | fast",
-            "OPTIONAL | color": "(r, g, b) x9"
         }
     ]
 }
